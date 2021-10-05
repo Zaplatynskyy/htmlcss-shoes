@@ -1,11 +1,22 @@
-/* commons */
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.container{
+.content{
     width: 100%;
+    height: 100vh;
+}
+
+#content_one{
+    background-color: red;
+}
+
+#content_two{
+    background-color: green;
+}
+
+#content_three{
+    background-color: yellow;
 }
